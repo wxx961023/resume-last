@@ -1,0 +1,18 @@
+.right .company-info{
+  margin-left: 40px;
+  font-weight: bold;
+  font-size: 16px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.name{
+  
+}
+.time{
+  margin-left: 40px;
+}
+li{
+  text-decoration: none;
+  list-style: none;
+}
